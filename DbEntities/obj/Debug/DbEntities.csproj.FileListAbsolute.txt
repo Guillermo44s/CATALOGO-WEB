@@ -1,0 +1,6 @@
+C:\Documentos\C#\Catalogue\DbEntities\bin\Debug\DbEntities.dll
+C:\Documentos\C#\Catalogue\DbEntities\bin\Debug\DbEntities.pdb
+C:\Documentos\C#\Catalogue\DbEntities\obj\Debug\DbEntities.csproj.AssemblyReference.cache
+C:\Documentos\C#\Catalogue\DbEntities\obj\Debug\DbEntities.csproj.CoreCompileInputs.cache
+C:\Documentos\C#\Catalogue\DbEntities\obj\Debug\DbEntities.dll
+C:\Documentos\C#\Catalogue\DbEntities\obj\Debug\DbEntities.pdb

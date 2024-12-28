@@ -1,0 +1,9 @@
+C:\Documentos\C#\Catalogue\OperationsLogic\bin\Debug\OperationsLogic.dll
+C:\Documentos\C#\Catalogue\OperationsLogic\bin\Debug\OperationsLogic.pdb
+C:\Documentos\C#\Catalogue\OperationsLogic\bin\Debug\DbEntities.dll
+C:\Documentos\C#\Catalogue\OperationsLogic\bin\Debug\DbEntities.pdb
+C:\Documentos\C#\Catalogue\OperationsLogic\obj\Debug\OperationsLogic.csproj.AssemblyReference.cache
+C:\Documentos\C#\Catalogue\OperationsLogic\obj\Debug\OperationsLogic.csproj.CoreCompileInputs.cache
+C:\Documentos\C#\Catalogue\OperationsLogic\obj\Debug\Operatio.65B76589.Up2Date
+C:\Documentos\C#\Catalogue\OperationsLogic\obj\Debug\OperationsLogic.dll
+C:\Documentos\C#\Catalogue\OperationsLogic\obj\Debug\OperationsLogic.pdb
